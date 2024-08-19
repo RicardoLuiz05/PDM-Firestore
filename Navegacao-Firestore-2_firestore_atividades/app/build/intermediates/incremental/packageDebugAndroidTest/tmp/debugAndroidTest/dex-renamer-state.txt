@@ -1,0 +1,10 @@
+#Mon Aug 19 00:15:07 BRT 2024
+base.0=C\:\\Users\\ricar\\Downloads\\Navegacao-Firestore-2_firestore_atividades\\Navegacao-Firestore-2_firestore_atividades\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=C\:\\Users\\ricar\\Downloads\\Navegacao-Firestore-2_firestore_atividades\\Navegacao-Firestore-2_firestore_atividades\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.2=C\:\\Users\\ricar\\Downloads\\Navegacao-Firestore-2_firestore_atividades\\Navegacao-Firestore-2_firestore_atividades\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\15\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=15/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

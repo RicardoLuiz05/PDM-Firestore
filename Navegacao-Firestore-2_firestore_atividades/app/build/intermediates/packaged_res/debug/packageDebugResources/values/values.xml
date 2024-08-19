@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Navegacao1</string>
+    <string name="gcm_defaultSenderId" translatable="false">445957476155</string>
+    <string name="google_api_key" translatable="false">AIzaSyDOTG3l4Vs6TvVm5zJn0SKxSllwOnYsHYc</string>
+    <string name="google_app_id" translatable="false">1:445957476155:android:12241bafbb36f78c79711e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDOTG3l4Vs6TvVm5zJn0SKxSllwOnYsHYc</string>
+    <string name="google_storage_bucket" translatable="false">social-ifpb-b1eeb.appspot.com</string>
+    <string name="project_id" translatable="false">social-ifpb-b1eeb</string>
+    <style name="Theme.Navegacao1" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445957476155",
+    "project_id": "social-ifpb-b1eeb",
+    "storage_bucket": "social-ifpb-b1eeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445957476155:android:12241bafbb36f78c79711e",
+        "android_client_info": {
+          "package_name": "com.example.navegacao1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOTG3l4Vs6TvVm5zJn0SKxSllwOnYsHYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
